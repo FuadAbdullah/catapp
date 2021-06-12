@@ -1,0 +1,85 @@
+# catapp
+
+> This document will be replaced every day to reflect latest changes. Previous copy of this document can be found in misc/changelogs
+
+A Flutter project to experiment and adapt Provider as well as Stream concepts into my development discipline.
+
+- [catapp](#catapp)
+  - [Terms Definition](#terms-definition)
+  - [Planned Features](#planned-features)
+  - [Progress Tracker](#progress-tracker)
+  - [Assumptions](#assumptions)
+  - [Changelogs](#changelogs)
+  - [Project TODOs](#project-todos)
+  - [Documentation TODOs](#documentation-todos)
+  - [References](#references)
+
+## Terms Definition
+
+Updated: 12/06/2021
+
+| Term  |  Definition |
+|---|---|
+| catapp | The name of the main application  |
+
+## Planned Features
+
+- Technical (Updated: 12/06/2021)
+  - Not available at the moment
+
+- UI (Updated: 12/06/2021)
+  - Not available at the moment
+
+## Progress Tracker
+
+Updated: 12/06/2021
+
+- Not available at the moment
+
+## Assumptions
+
+Updated: 12/06/2021
+
+- Not available at the moment
+
+## Changelogs
+
+Updated: 12/06/2021
+
+- Documentation
+  - Added [Title](#catapp)
+  - Added description of project under title header
+  - Added [Definition to the terms of catapp](#terms-definition)
+  - Added [Placehoder to features planned for the application](#planned-features)
+  - Added [Placeholder to track progress](#progress-tracker)
+  - Added [Placeholder to assumptions throughout the project duration](#assumptions)
+  - Added [Changelogs of project planner and project file](#changelogs)
+  - Added [Placeholder to TODOs for the project planner](#documentation-todos)
+  - Added [Placeholder for references](#references)
+  - Added [Placeholder to TODOs for the project](#project-todos)
+- Project File
+  - Added model, provider and view folders
+  - Added core, glitch, helper and services under model
+  - Added misc folder
+  - Added changelogs under misc
+  - Added catphoto.dart under core
+  - Added glitch.dart and nointernetglitch.dart under glitch
+  - Added catphotoapi.dart under services
+
+## Project TODOs
+
+Updated: 12/06/2021
+
+- Continue following the guide starting with Helper section
+
+## Documentation TODOs
+
+Updated: 12/06/2021
+
+- Not available at the moment
+
+## References
+
+Updated: 12/06/2021
+
+- [Flutter tutorial: Architect your app using Provider and Stream](https://blog.codemagic.io/flutter-tutorial-app-arhitecture-beginners/)
