@@ -69,7 +69,7 @@ Updated: 12/06/2021
 
 ## References
 
-Updated: 12/06/2021
+Updated: 13/06/2021
 
 - [Flutter tutorial: Architect your app using Provider and Stream](https://blog.codemagic.io/flutter-tutorial-app-arhitecture-beginners/)
 - [dartz](https://pub.dev/packages/dartz/versions/0.10.0-nullsafety.2)
