@@ -1,12 +1,12 @@
 import 'dart:convert';
 
 class CatPhoto {
-  final String? id;
-  final String? url;
-  final int? width;
-  final int? height;
+  final String id;
+  final String url;
+  final int width;
+  final int height;
 
-  const CatPhoto({this.id, this.url, this.width, this.height});
+  const CatPhoto({required this.id, required this.url, required this.width, required this.height});
 
   Map<String, dynamic> toMap() {
     return {'id': id, 'url': url, 'width': width, 'height': height};
